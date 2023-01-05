@@ -755,3 +755,7 @@ label.error {
   text-transform: uppercase;
   transition: all 0.3s ease 0s;
 }
+.link-mail{
+  color:#50AF23;
+  
+}
